@@ -1,0 +1,24 @@
+{
+  "name": "Karthik",
+  "age": 22,
+  "occupation": "Student & Freelance Developer",
+  "monthly_income_avg": 28000,
+  "income_type": "irregular_freelance",
+  "salary_credit_day": null,
+  "primary_bank": "HDFC Bank",
+  "cards": [
+    {
+      "name": "HDFC Millennia",
+      "type": "credit",
+      "reward_rate": "5% cashback on Amazon & Flipkart, 1% on others",
+      "limit": 75000
+    },
+    {
+      "name": "UPI - HDFC",
+      "type": "upi",
+      "reward_rate": "0%"
+    }
+  ],
+  "location": "Hyderabad, India",
+  "currency": "INR"
+}

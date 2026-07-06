@@ -1,0 +1,38 @@
+[
+  {
+    "id": "goal_1",
+    "name": "MacBook Air M3",
+    "target_amount": 110000,
+    "saved_amount": 35000,
+    "target_date": "2026-12-31",
+    "created_date": "2026-01-15",
+    "category": "Electronics",
+    "priority": "high",
+    "monthly_contribution_target": 7500,
+    "icon": "laptop_mac"
+  },
+  {
+    "id": "goal_2",
+    "name": "Emergency Fund",
+    "target_amount": 50000,
+    "saved_amount": 12000,
+    "target_date": "2027-06-30",
+    "created_date": "2026-01-01",
+    "category": "Safety Net",
+    "priority": "high",
+    "monthly_contribution_target": 3000,
+    "icon": "shield"
+  },
+  {
+    "id": "goal_3",
+    "name": "Goa Trip with Friends",
+    "target_amount": 25000,
+    "saved_amount": 8000,
+    "target_date": "2026-10-15",
+    "created_date": "2026-03-01",
+    "category": "Travel",
+    "priority": "medium",
+    "monthly_contribution_target": 4000,
+    "icon": "flight"
+  }
+]

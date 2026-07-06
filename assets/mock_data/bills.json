@@ -1,0 +1,62 @@
+[
+  {
+    "id": "bill_1",
+    "name": "Electricity Bill",
+    "merchant": "TSSPDCL Electricity",
+    "amount": 1250,
+    "due_date": "2026-07-07",
+    "category": "Bills & Utilities",
+    "status": "pending",
+    "is_recurring": true,
+    "frequency": "monthly",
+    "auto_pay": false
+  },
+  {
+    "id": "bill_2",
+    "name": "WiFi Bill",
+    "merchant": "ACT Fibernet",
+    "amount": 999,
+    "due_date": "2026-07-14",
+    "category": "Bills & Utilities",
+    "status": "pending",
+    "is_recurring": true,
+    "frequency": "monthly",
+    "auto_pay": true
+  },
+  {
+    "id": "bill_3",
+    "name": "Mobile Recharge",
+    "merchant": "Jio Recharge",
+    "amount": 299,
+    "due_date": "2026-07-20",
+    "category": "Bills & Utilities",
+    "status": "pending",
+    "is_recurring": true,
+    "frequency": "monthly",
+    "auto_pay": false
+  },
+  {
+    "id": "bill_4",
+    "name": "PG Rent",
+    "merchant": "PG Accommodation",
+    "amount": 8000,
+    "due_date": "2026-08-01",
+    "category": "Rent",
+    "status": "pending",
+    "is_recurring": true,
+    "frequency": "monthly",
+    "auto_pay": false
+  },
+  {
+    "id": "bill_5",
+    "name": "HDFC Millennia Credit Card",
+    "merchant": "HDFC Bank",
+    "amount": 4520,
+    "due_date": "2026-07-15",
+    "category": "Credit Card",
+    "status": "pending",
+    "is_recurring": true,
+    "frequency": "monthly",
+    "auto_pay": false
+  }
+]

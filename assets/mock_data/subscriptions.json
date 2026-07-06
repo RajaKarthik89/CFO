@@ -1,0 +1,67 @@
+[
+  {
+    "id": "sub_1",
+    "name": "Netflix",
+    "monthly_cost": 649,
+    "annual_cost": 7788,
+    "category": "Entertainment",
+    "billing_cycle": "monthly",
+    "next_billing_date": "2026-07-05",
+    "last_used": "2026-06-15",
+    "usage_frequency": "low",
+    "status": "underused",
+    "notes": "Watched only 2 shows in the last 3 months"
+  },
+  {
+    "id": "sub_2",
+    "name": "Spotify Premium",
+    "monthly_cost": 119,
+    "annual_cost": 1428,
+    "category": "Music",
+    "billing_cycle": "monthly",
+    "next_billing_date": "2026-07-03",
+    "last_used": "2026-07-03",
+    "usage_frequency": "daily",
+    "status": "active",
+    "notes": "Used daily for music and podcasts"
+  },
+  {
+    "id": "sub_3",
+    "name": "Amazon Prime",
+    "monthly_cost": 149,
+    "annual_cost": 1788,
+    "category": "Shopping & Entertainment",
+    "billing_cycle": "monthly",
+    "next_billing_date": "2026-07-08",
+    "last_used": "2026-07-01",
+    "usage_frequency": "weekly",
+    "status": "active",
+    "notes": "Used for delivery and occasional Prime Video"
+  },
+  {
+    "id": "sub_4",
+    "name": "Google One 100GB",
+    "monthly_cost": 130,
+    "annual_cost": 1560,
+    "category": "Cloud Storage",
+    "billing_cycle": "monthly",
+    "next_billing_date": "2026-07-10",
+    "last_used": "2026-07-04",
+    "usage_frequency": "daily",
+    "status": "active",
+    "notes": "Using 67GB of 100GB, needed for photos backup"
+  },
+  {
+    "id": "sub_5",
+    "name": "YouTube Premium",
+    "monthly_cost": 149,
+    "annual_cost": 1788,
+    "category": "Entertainment",
+    "billing_cycle": "monthly",
+    "next_billing_date": "2026-07-12",
+    "last_used": "2026-07-03",
+    "usage_frequency": "daily",
+    "status": "active",
+    "notes": "Used daily, ad-free YouTube"
+  }
+]
